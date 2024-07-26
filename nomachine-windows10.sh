@@ -15,12 +15,12 @@ function goto
 
 : ngrok
 clear
-echo "Go to: https://dashboard.ngrok.com/get-started/your-authtoken"
+echo "Go to:https://github.com/rdpddddd/Docker-Ubuntu-Desktop-NoMachine"
 read -p "Paste Ngrok Authtoken: " CRP
 ./ngrok config add-authtoken $CRP 
 
 clear
-echo "Repo: https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine"
+echo "Repo: https://github.com/rdpddddd/Docker-Ubuntu-Desktop-NoMachine"
 echo "======================="
 echo "choose ngrok region (for better connection)."
 echo "======================="
